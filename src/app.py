@@ -1,3 +1,3 @@
 function one(){
-    print('print one')
+    print('print one method')
 }
